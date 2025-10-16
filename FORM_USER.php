@@ -20,7 +20,7 @@
 				<div class="panel-heading">
 				<a href="PHP/USER/select_user.php" class="close" >&times;</a> 
 
-				FORMULARIO NUEVO USUARIO					
+				FORMULARIO NUEVOS USUARIOS					
 				</div>
 
 				<!-- PANEL BOBY // CONTENDIDO DEL PANEL -->
