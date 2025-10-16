@@ -15,7 +15,7 @@
 try {
 
 $con->query($sql);
-print "<script>alert(\"Agregado exitosamente.\");window.location='select_user.php';</script>";
+print "<script>alert(\"Usuario Agregado exitosamente.\");window.location='select_user.php';</script>";
 
 } catch (Exception $e){
 
